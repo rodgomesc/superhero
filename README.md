@@ -28,6 +28,10 @@ yarn ios
 <img src="https://user-images.githubusercontent.com/4893591/164489634-f496bce1-b4d3-4993-976a-55e9c7b27e45.png" width="45%" />
 </p>
 
+## usage
+
+- just swipe to left or right to see the next or previous superhero
+
 ## Organization and structure of `src` folder
 
 ```shell
